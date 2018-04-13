@@ -1,1 +1,2 @@
-data <- read.csv("test.csv", sep=",")
+data <- read.csv("train.csv", sep=",")
+
